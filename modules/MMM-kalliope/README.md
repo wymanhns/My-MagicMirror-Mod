@@ -1,8 +1,10 @@
-# MagicMirror-KALLIOPE 修改
+# MagicMirror-KALLIOPE for wukong-robot mod 悟空語音修改
 
 This [MagicMirror²][mm] Module allows you to have pages in your magic mirror!
-Want to have more modules in your magic mirror, but want to keep the format?
+Modified for wukong-robot.  
 Or, want to have grouped modules that are themed together? Look no further!
+
+此為 [MagicMirror²][mm] 模塊可讓您在魔術鏡中放置頁面！
 
 
 *Add Text Color Style*
