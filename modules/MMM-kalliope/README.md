@@ -19,14 +19,14 @@ curl -H "Content-Type: application/json" -X POST -d '{"notification":"ROBOT", "p
 
 ## Configuration options
 
-| Option          | Type               | Default Value            | Description |
-| --------------- | ------------------ | ------------------------ | --------- |
-| `modules`       | `[[String...]...]` | `[]`                     |  |
-| ``      | *None*             | *None*                   |  |
+| Option          | Value            | Description |
+| --------------- | ------------------------ | --------- |
+| `notification`       | `KALLIOPE` |  |
+| `notification`       | *ROBOT*             |  |
 | ``         | ``      | `` |  |
-| `` | ``              | ``                   |  |
-| ``  | ``              | `0`                      |  |
-| ``     | ``              | `0`                      |  |
+| `` | ``              | ``                     |
+| ``  | ``              | `0`                        |
+| ``     | ``              | `0`                        |
 
 
 [mm]: https://github.com/MichMich/MagicMirror
