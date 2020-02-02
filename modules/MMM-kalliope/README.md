@@ -21,12 +21,11 @@ curl -H "Content-Type: application/json" -X POST -d '{"notification":"ROBOT", "p
 
 | Option          | Value            | Description |
 | --------------- | ------------------------ | --------- |
-| `notification`       | `KALLIOPE` |  |
-| `notification`       | *ROBOT*             |  |
+| `notification`       | `KALLIOPE` | *Font Color = Green* |
+| `notification`       | 'ROBOT'    | *Font Color = Yellow* |
 | ``         | ``      | `` |  |
 | `` | ``              | ``                     |
-| ``  | ``              | `0`                        |
-| ``     | ``              | `0`                        |
+
 
 
 [mm]: https://github.com/MichMich/MagicMirror
