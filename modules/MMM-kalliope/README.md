@@ -2,15 +2,9 @@
 
 This [MagicMirror²][mm] Module allows you to have pages in your magic mirror!
 Modified for wukong-robot.  
-Or, want to have grouped modules that are themed together? Look no further!
 
 此為 [MagicMirror²][mm] 模塊可讓您在魔術鏡中放置頁面！
-
-
-*Add Text Color Style*
-
-*Test:*
-
+為悟空語音的小修改。
 
 
 ## Using the module
