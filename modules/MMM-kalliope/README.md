@@ -24,6 +24,12 @@ This module allow you to:
 
 ## Using the module
 
+| Option          | Value            | Description |
+| --------------- | ------------------------ | --------- |
+| `notification`       | `KALLIOPE` or `ROBOT`| *Font Color = Green* or *Font Color = Yellow & Robot Icon*|
+| `payload`       | `You message`    | * |
+| `http://localhost/kalliope`       | `You Host`    | * |
+
 `Green Text`
 ```bash
 curl -H "Content-Type: application/json" -X POST -d '{"notification":"KALLIOPE", "payload": "Test1"}' http://localhost/kalliope
@@ -34,14 +40,8 @@ curl -H "Content-Type: application/json" -X POST -d '{"notification":"KALLIOPE",
 curl -H "Content-Type: application/json" -X POST -d '{"notification":"ROBOT", "payload": "Test1"}' http://localhost/kalliope
 ```
 
+
+
 ## Configuration options
-
-| Option          | Value            | Description |
-| --------------- | ------------------------ | --------- |
-| `notification`       | `KALLIOPE` or `ROBOT`| *Font Color = Green* or *Font Color = Yellow & Robot Icon*|
-| `payload`       | `You message`    | * |
-| `http://localhost/kalliope`       | `You Host`    | * |
-
-
 
 [mm]: https://github.com/MichMich/MagicMirror
