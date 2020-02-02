@@ -31,3 +31,6 @@ curl -H "Content-Type: application/json" -X POST -d '{"notification":"ROBOT", "p
 | `` | ``              | ``                   |  |
 | ``  | ``              | `0`                      |  |
 | ``     | ``              | `0`                      |  |
+
+
+[mm]: https://github.com/MichMich/MagicMirror
