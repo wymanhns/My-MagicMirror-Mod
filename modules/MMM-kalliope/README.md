@@ -24,10 +24,12 @@ This module allow you to:
 
 ## Using the module
 
+`Green Text`
 ```bash
 curl -H "Content-Type: application/json" -X POST -d '{"notification":"KALLIOPE", "payload": "Test1"}' http://localhost/kalliope
 ```
 
+`Yellow Text & Robot icon`
 ```bash
 curl -H "Content-Type: application/json" -X POST -d '{"notification":"ROBOT", "payload": "Test1"}' http://localhost/kalliope
 ```
