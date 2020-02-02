@@ -4,13 +4,11 @@ This [MagicMirror²][mm] Module allows you to have pages in your magic mirror!
 Want to have more modules in your magic mirror, but want to keep the format?
 Or, want to have grouped modules that are themed together? Look no further!
 
-*\<self-promotion>*
 
 *Add Text Color Style*
 
 *Test:*
 
-*\<\\self-promotion>*
 
 
 ## Using the module
