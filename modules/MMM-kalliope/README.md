@@ -22,9 +22,7 @@ curl -H "Content-Type: application/json" -X POST -d '{"notification":"ROBOT", "p
 | Option          | Value            | Description |
 | --------------- | ------------------------ | --------- |
 | `notification`       | `KALLIOPE` | *Font Color = Green* |
-| `notification`       | 'ROBOT'    | *Font Color = Yellow* |
-| ``         | ``      | `` |  |
-| `` | ``              | ``                     |
+| `notification`       | `ROBOT`    | *Font Color = Yellow* |
 
 
 
