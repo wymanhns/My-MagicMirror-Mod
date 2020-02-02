@@ -6,9 +6,9 @@ Or, want to have grouped modules that are themed together? Look no further!
 
 *\<self-promotion>*
 
-Add Text Color Style
+*Add Text Color Style*
 
-Test:
+*Test:*
 
 *\<\\self-promotion>*
 
