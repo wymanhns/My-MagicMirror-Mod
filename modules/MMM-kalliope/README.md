@@ -38,8 +38,9 @@ curl -H "Content-Type: application/json" -X POST -d '{"notification":"ROBOT", "p
 
 | Option          | Value            | Description |
 | --------------- | ------------------------ | --------- |
-| `notification`       | `KALLIOPE` | *Font Color = Green* |
-| `notification`       | `ROBOT`    | *Font Color = Yellow & Robot Icon* |
+| `notification`       | `KALLIOPE` or `ROBOT`| *Font Color = Green* or *Font Color = Yellow & Robot Icon*|
+| `payload`       | `You message`    | * |
+| `http://localhost/kalliope`       | `You Host`    | * |
 
 
 
